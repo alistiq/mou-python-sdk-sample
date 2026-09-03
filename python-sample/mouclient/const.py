@@ -1,0 +1,2 @@
+W3_ORG_CREDENTIALS_CONTEXT = "https://www.w3.org/2018/credentials/v1"
+CREDENTIAL_STATUS_REVOCATION_LIST_2020 = "RevocationList2020Status"
